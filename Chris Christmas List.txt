@@ -1,0 +1,44 @@
+--]
+ima just make this a list full of stuff I find that I want, not just limited to this years christmas
+
+made it like code cause I was bored
+
+current #of things : 34
+--]
+local "epic construction" = Diecast Construction Toys : https://www.amazon.com/Top-Race-Construction-Excavator-Realistic/dp/B07YP1LPZL/ref=sr_1_8?dchild=1&keywords=Diecast&qid=1606504691&sr=8-8
+local "giftcards" = table {"Steam", "Roblox", "Nintendo"}
+local "Funkopop TF2" = TF2 Medic Funko Pop : https://www.amazon.com/Funko-Pop-Games-Fortress-Collectible/dp/B074HKQ8TR
+local "epic truckv1" = E-one Heavy Rescue Fire Truck Diecast : https://www.amazon.com/one-Heavy-Rescue-Fire-Truck/dp/8325200286/ref=pd_bxgy_img_2/137-3625841-0180659?_encoding=UTF8&pd_rd_i=8325200286&pd_rd_r=ecefe10d-5fe8-491e-a01f-c2d77d8236c1&pd_rd_w=gxRZs&pd_rd_wg=3dBBx&pf_rd_p=f325d01c-4658-4593-be83-3e12ca663f0e&pf_rd_r=QQCW167M5YZKZ6Y3YA5Q&psc=1&refRID=QQCW167M5YZKZ6Y3YA5Q
+local "second epic truck" = pumper green : https://www.amazon.com/One-Cyclone-Pumper-Fire-Truck/dp/8325220902/ref=sr_1_39?dchild=1&keywords=fire+truck+diecast+models&qid=1606596787&sr=8-39
+local "lego snowplow" = LEGO City 60083 Snowplow Truck : https://www.amazon.com/LEGO-City-60083-Snowplow-Truck/dp/B00NHQFQ0S/ref=sr_1_2?dchild=1&keywords=Lego+Snowplow&qid=1606522375&sr=8-2
+local "lego ski thing" = LEGO City Great Vehicles Snow Groomer 60222 : https://www.amazon.com/LEGO-Great-Vehicles-Groomer-Building/dp/B07GW29P8G/ref=sr_1_1?dchild=1&keywords=Lego+Snowplow&qid=1606522375&sr=8-1
+local "boat" = LEGO City Ocean Exploration Ship 60266, Toy Exploration Vessel, Mini Helicopter, Submarine, Shipwreck with Treasure, Lifeboat, Stingray, Shark, Plus 8 Minifigures, New 2020 : https://www.amazon.com/LEGO-Exploration-Helicopter-Submarine-Minifigures/dp/B0858CL5ZK/ref=sr_1_58?dchild=1&keywords=Lego&qid=1606522507&sr=8-58
+local "harvester" = LEGO City Great Vehicles Harvester Transport 60223 Building Kit : https://www.amazon.com/LEGO-Vehicles-Harvester-Transport-Building/dp/B07GVRBTT6/ref=sr_1_1?dchild=1&keywords=Lego+Combine&qid=1606522913&sr=8-1
+local "tractor" = LEGO Technic Mini CLAAS XERION 42102 Toy Tractor Building Kit, New 2020 : https://www.amazon.com/LEGO-Technic-XERION-Tractor-Building/dp/B07WMB82H2/ref=sr_1_2?dchild=1&keywords=Lego+Combine&qid=1606522913&sr=8-2
+local "Cherry picker" = LEGO Technic Cherry Picker 42088 Building Kit : https://www.amazon.com/LEGO-Technic-Cherry-Picker-Building/dp/B07HPW4KGF/ref=sr_1_3?crid=1RSVEF9Q6E3NZ&dchild=1&keywords=lego+technic+mini&qid=1606523273&sprefix=Lego+Tech%2Caps%2C196&sr=8-3
+local "pants" = any pants that I already wear would be nice
+local "hoodie2" = Black Mesa Zip Up Hoodie : https://valvestore.forfansbyfans.com/black-mesa-zip-up-hoodie-13319.html
+local "pinpack" = Half-Life Pin pack : https://valvestore.forfansbyfans.com/half-life-pin-pack-13324.html
+local "mug" = Black Mesa Logo Mug : https://valvestore.forfansbyfans.com/black-mesa-logo-mug-13318.html
+local "Wallet" = TF2 wallet : https://valvestore.forfansbyfans.com/category/team-fortress2-accessories/tf2-group-shot-canvas-wallet-13001.html
+local "toy thing" = cat stress reliver thing : https://shopcaterpillar.com/collections/toys-stress-toys/products/skidsteerstressreliever
+local "chessie systems train" = epic diesel train : https://www.modeltrainstuff.com/bachmann-ho-63533-gp40-diesel-locomotive-chessie-system-4155/
+local "construction thing" = forklift and steamroller : https://www.amazon.com/Top-Race-Diecast-Construction-Roller/dp/B07YSXXGCP?ref_=ast_sto_dp
+local "brrrrrt" = A-10 Diecast Model : https://www.amazon.com/HANGHANG-Thunderbolt-Plane（Painted-Version）-Collection/dp/B07WR6VCP7/ref=sr_1_53?dchild=1&keywords=diecast&qid=1606596658&sr=8-53
+local "best candie" = toblerone pls
+local "knifes and cool things" = Rescue Tool : https://www.swissarmy.com/us/en/Products/Swiss-Army-Knives/Large-Pocket-Knives/Rescue-Tool/p/0.8623.MWN
+local "Swiss Soldier's Knife 08" = Swiss Soldier's Knife 08 : https://www.swissarmy.com/us/en/Products/Swiss-Army-Knives/Large-Pocket-Knives/Swiss-Soldier%27s-Knife-08/p/0.8461.MWCH
+local "big orange knoifee" Pioneer X Alox Limited Edition 2021 : https://www.swissarmy.com/us/en/Products/Swiss-Army-Knives/Medium-Pocket-Knives/Pioneer-X-Alox-Limited-Edition-2021/p/0.8231.L21
+local "cool card" = Swiss Card Classic : https://www.swissarmy.com/us/en/Products/Swiss-Army-Knives/Swiss-Cards/Swiss-Card-Classic/p/0.7100.T
+local "cool pouch" = Nylon Belt Pouch : https://www.swissarmy.com/us/en/Products/Swiss-Army-Knives/Accessories/Nylon-Belt-Pouch/p/4.0838.4
+
+
+If (Nintendo Switch) True then(
+	AmazonBasics Carrying Case for Nintendo Switch https://www.amazon.com/AmazonBasics-Carrying-Case-Nintendo-Switch-Accessories/dp/B07DVZSSFD/ref=lp_21398064011_1_2?srs=21398064011&ie=UTF8&qid=1606504222&sr=8-2
+	Animal Crossing: New Horizons : https://www.amazon.com/Animal-Crossing-New-Horizons-Nintendo-Switch/dp/B07SL6ZXBL/ref=sr_1_3?crid=3JFDWP8I71L9L&dchild=1&keywords=nintendo+animal+crossing&qid=1606504274&sprefix=nintendo+anima%2Caps%2C188&sr=8-3
+end)
+
+if (chessie systems train) True then(
+	local "new electricity thing" = Since the old power supply for the trainset dosent work, I thought to put it on, but dont know what I should put on here
+	local "chessie systems" = some log thing : https://www.modeltrainstuff.com/walthers-trainline-ho-931-1782-log-crane-car-chessie-system-b-o-9151/
+end)
